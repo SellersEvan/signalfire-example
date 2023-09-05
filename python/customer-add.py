@@ -1,7 +1,3 @@
-# - Success
-# - Failure
-# - Faulure w/ Code
-
 import sys
 
 print("name          : " + sys.argv[1])
@@ -39,5 +35,3 @@ elif sys.argv[6] == "EXIT_2":
 elif sys.argv[6] == "EXIT_STR":
     sys.exit("EXIT STRING")
 
-
-# New Line
